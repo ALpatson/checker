@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.div1 {
+  text-align: center;
+}
+.div1 {
+  max-width: 600px;
+  max-height: 100%;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 5px;
+  background-color: white;
+  box-shadow: 0 0 10px;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+a {
+  text-decoration: none;
+  font-size: 150%;
+  color: rgb(44, 97, 97);
+}
+a:hover {
+  color: aqua;
+}
+.sub {
+  width: 80px;
+  height: 30px;
+  font-size: medium;
+  border-radius: 20px;
+}
+.sub {
+  background-color: black;
+  color: white;
+}
+.sub:hover {
+  color: black;
+  background-color: azure;
+}
+.num {
+  text-decoration: underline;
+}
